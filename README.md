@@ -1,7 +1,5 @@
 # Tic-Tac-Toe-Game-WebApp
 
-![Tic-Tac-Toe Screenshot](screenshot.png)
-
 ## Description
 
 Welcome to React Tic-tac-toe, a modern and engaging rendition of the classic game! This React-based application provides an immersive gaming experience with dynamic visuals, player turn indicators, and exciting features.
